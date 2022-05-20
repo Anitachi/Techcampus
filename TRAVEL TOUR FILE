@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<meta charset="utf-8">
+<title>Travel Tour</title>
+<body>
+<h1>My Travel Tour</h1>  
+<h2>Cosmetics Market, Ojota, Lagos-Nigeria</h2>  
+<p>My travel tour to ojota market</p>
+<p>Where cosmetics skincare products are sold such as organic and non organic products</p>
+<img src="ojotamarket.png" width=400px height=250px alt="a picture of a woman buying plastics in ojota market">
+<p>This is a symbolic picture of how the market is usually crowded most especially on weekends or on a public holiday <a href="Theojotamarket.jpeg"> The Ojota Market</a> A market full of any skincare products for both retailers and manucfacturers. <br> Today Ojota is said to be the market in the Nigeria where organic products are sourced from for production and been transported to other states if needed by skincare vendors not in state (Lagos) <b>In 2010</b>, it is also nicknamed as the <b>Organic Skincare Market</b></p>
+<h3>
+    <b>My Reviews</b>
+</h3>
+<p>My opinion declared on 2022-5-20 <br> The market is affordable for organic products but for non organic it is expensive</p>
+<hr>
+<p>By Annie Nwa 2022-05-20 <br> I went to the market to get products for what i have to produce and really you would find it difficult to pick exactly what you want if you came to the market without a defined product you need <br> I had to go round to almost all stores to ensure i don't purchade counterfeited produtct <br><br> The market had every skincare products i needed, it was worth the stress. I loved it</p>
+<p>Copyright <b>U</b> 2022 My Travel Tour</p>
+</body>
+</html>
